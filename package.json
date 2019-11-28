@@ -20,7 +20,7 @@
     "jshint": "^2.9.5",
     "jsonwebtoken": "^7.3.0",
     "mocha": "^3.2.0",
-    "mongoose": "^4.8.6",
+    "mongoose": "^5.7.5",
     "mysql": "^2.15.0",
     "node-datetime": "2.0.3",
     "nodemailer": "^4.0.1",
